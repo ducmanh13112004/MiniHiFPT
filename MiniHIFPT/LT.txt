@@ -1,0 +1,4 @@
+models/product.go: Định nghĩa các model như Product để đại diện cho dữ liệu.
+controllers/product.go: Viết các hàm xử lý logic liên quan đến sản phẩm (CRUD).
+routes/routes.go: Định nghĩa route ánh xạ endpoint tới controller.
+main.go: Tích hợp Fiber, route, và khởi động ứng dụng.
